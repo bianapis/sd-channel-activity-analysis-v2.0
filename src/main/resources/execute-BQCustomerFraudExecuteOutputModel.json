@@ -1,0 +1,15 @@
+{
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult"
+  },
+  "customerFraudExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "customerFraudExecuteActionTaskReference" : "CFEATR744339",
+  "customerFraudExecuteRecordReference" : "CFERR773593",
+  "customerFraudInstanceRecord" : {
+    "channelActivityCustomerFraudAnalysisAlgorithmSpecification" : "channelActivityCustomerFraudAnalysisAlgorithmSpecification",
+    "channelActivityCustomerFraudAnalysisResult" : "channelActivityCustomerFraudAnalysisResult",
+    "channelActivityCustomerFraudAnalysisReference" : "790808"
+  }
+}

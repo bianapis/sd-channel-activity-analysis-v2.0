@@ -1,0 +1,15 @@
+{
+  "deviceErrorInstanceRecord" : {
+    "channelActivityDeviceErrorDetectionAnalysisReference" : "723280",
+    "channelActivityDeviceErrorDetectionAnalysisResult" : "channelActivityDeviceErrorDetectionAnalysisResult",
+    "channelActivityDeviceErrorDetectionAnalysisAlgorithmSpecification" : "channelActivityDeviceErrorDetectionAnalysisAlgorithmSpecification"
+  },
+  "deviceErrorExecuteActionTaskRecord" : {},
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult"
+  },
+  "executeResponseRecord" : {},
+  "deviceErrorExecuteActionTaskReference" : "DEEATR751545",
+  "deviceErrorExecuteRecordReference" : "DEERR756228"
+}

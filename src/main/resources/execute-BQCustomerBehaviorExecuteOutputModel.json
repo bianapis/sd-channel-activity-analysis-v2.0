@@ -1,0 +1,15 @@
+{
+  "customerBehaviorExecuteActionTaskRecord" : {},
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult"
+  },
+  "customerBehaviorInstanceRecord" : {
+    "channelActivityCustomerBehaviorAnalysisAlgorithmSpecification" : "channelActivityCustomerBehaviorAnalysisAlgorithmSpecification",
+    "channelActivityCustomerBehaviorAnalysisReference" : "788117",
+    "channelActivityCustomerBehaviorAnalysisResult" : "channelActivityCustomerBehaviorAnalysisResult"
+  },
+  "customerBehaviorExecuteActionTaskReference" : "CBEATR726740",
+  "executeResponseRecord" : {},
+  "customerBehaviorExecuteRecordReference" : "CBERR771854"
+}

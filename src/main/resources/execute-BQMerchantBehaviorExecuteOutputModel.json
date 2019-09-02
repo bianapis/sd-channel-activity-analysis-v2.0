@@ -1,0 +1,15 @@
+{
+  "merchantBehaviorExecuteActionTaskReference" : "MBEATR735554",
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult"
+  },
+  "executeResponseRecord" : {},
+  "merchantBehaviorExecuteActionTaskRecord" : {},
+  "merchantBehaviorInstanceRecord" : {
+    "channelActivityMerchantBehaviorAnalysisReference" : "720683",
+    "channelActivityMerchantBehaviorAnalysisAlgorithmSpecification" : "channelActivityMerchantBehaviorAnalysisAlgorithmSpecification",
+    "channelActivityMerchantBehaviorAnalysisResult" : "channelActivityMerchantBehaviorAnalysisResult"
+  },
+  "merchantBehaviorExecuteRecordReference" : "MBERR735108"
+}

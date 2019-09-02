@@ -1,0 +1,15 @@
+{
+  "merchantFraudInstanceRecord" : {
+    "channelActivityMerchantFraudAnalysisResult" : "channelActivityMerchantFraudAnalysisResult",
+    "channelActivityMerchantFraudAnalysisAlgorithmSpecification" : "channelActivityMerchantFraudAnalysisAlgorithmSpecification",
+    "channelActivityMerchantFraudAnalysisReference" : "702713"
+  },
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult"
+  },
+  "executeResponseRecord" : {},
+  "merchantFraudExecuteRecordReference" : "MFERR726827",
+  "merchantFraudExecuteActionTaskRecord" : {},
+  "merchantFraudExecuteActionTaskReference" : "MFEATR794352"
+}

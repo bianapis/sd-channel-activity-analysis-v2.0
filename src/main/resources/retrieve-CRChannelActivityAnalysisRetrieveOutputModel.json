@@ -1,0 +1,23 @@
+{
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisPeriod" : "channelActivityAnalysisPeriod",
+    "channelType" : "channelType",
+    "channelActivityHistoryReport" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult",
+    "channelActivityAnalysisType" : "channelActivityAnalysisType"
+  },
+  "channelActivityAnalysisInstanceReportRecord" : {
+    "channelActivityAnalysisInstanceReportType" : "channelActivityAnalysisInstanceReportType",
+    "channelActivityAnalysisInstanceReport" : {},
+    "channelActivityAnalysisInstanceReportData" : "channelActivityAnalysisInstanceReportData"
+  },
+  "channelActivityAnalysisInstanceAnalysis" : {
+    "channelActivityAnalysisInstanceAnalysisReportType" : "channelActivityAnalysisInstanceAnalysisReportType",
+    "channelActivityAnalysisInstanceAnalysisReport" : {},
+    "channelActivityAnalysisInstanceAnalysisData" : "channelActivityAnalysisInstanceAnalysisData"
+  },
+  "channelActivityAnalysisRetrieveActionResponse" : "channelActivityAnalysisRetrieveActionResponse",
+  "channelActivityAnalysisRetrieveActionTaskReference" : "CAARATR777859",
+  "channelActivityAnalysisRetrieveActionTaskRecord" : {}
+}

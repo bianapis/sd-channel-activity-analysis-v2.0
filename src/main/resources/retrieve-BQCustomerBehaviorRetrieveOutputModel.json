@@ -1,0 +1,30 @@
+{
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisPeriod" : "channelActivityAnalysisPeriod",
+    "channelType" : "channelType",
+    "channelActivityHistoryReport" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult",
+    "channelActivityAnalysisType" : "channelActivityAnalysisType"
+  },
+  "customerBehaviorInstanceReport" : {
+    "customerBehaviorInstanceReportRecord" : {},
+    "customerBehaviorInstanceReport" : {},
+    "customerBehaviorInstanceReportParameters" : "customerBehaviorInstanceReportParameters",
+    "customerBehaviorInstanceReportType" : "customerBehaviorInstanceReportType"
+  },
+  "customerBehaviorInstanceRecord" : {
+    "channelActivityCustomerBehaviorAnalysisAlgorithmSpecification" : "channelActivityCustomerBehaviorAnalysisAlgorithmSpecification",
+    "channelActivityCustomerBehaviorAnalysisReference" : "742450",
+    "channelActivityCustomerBehaviorAnalysisResult" : "channelActivityCustomerBehaviorAnalysisResult"
+  },
+  "customerBehaviorRetrieveActionResponse" : "customerBehaviorRetrieveActionResponse",
+  "customerBehaviorRetrieveActionTaskReference" : "CBRATR751152",
+  "customerBehaviorInstanceAnalysis" : {
+    "customerBehaviorInstanceAnalysisRecord" : {},
+    "customerBehaviorInstanceAnalysisReportType" : "customerBehaviorInstanceAnalysisReportType",
+    "customerBehaviorInstanceAnalysisReport" : {},
+    "customerBehaviorInstanceAnalysisParameters" : "customerBehaviorInstanceAnalysisParameters"
+  },
+  "customerBehaviorRetrieveActionTaskRecord" : {}
+}

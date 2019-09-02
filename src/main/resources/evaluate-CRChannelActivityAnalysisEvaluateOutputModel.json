@@ -1,0 +1,13 @@
+{
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisPeriod" : "channelActivityAnalysisPeriod",
+    "channelType" : "channelType",
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult",
+    "channelActivityAnalysisType" : "channelActivityAnalysisType"
+  },
+  "channelActivityAnalysisEvaluateActionRecord" : {},
+  "channelActivityAnalysisInstanceStatus" : "channelActivityAnalysisInstanceStatus",
+  "channelActivityAnalysisInstanceReference" : "CAAIR764643",
+  "channelActivityAnalysisEvaluateActionReference" : "CAAEAR707816"
+}

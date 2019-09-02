@@ -1,0 +1,15 @@
+{
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult"
+  },
+  "botExecuteActionTaskReference" : "CBEATR710763",
+  "executeResponseRecord" : {},
+  "botExecuteActionTaskRecord" : {},
+  "bQBotInstanceRecordInstanceRecord" : {
+    "channelActivityBotDetectionAnalysisAlgorithmSpecification" : "channelActivityBotDetectionAnalysisAlgorithmSpecification",
+    "channelActivityBotDetectionAnalysisReference" : "731447",
+    "channelActivityBotDetectionAnalysisResult" : "channelActivityBotDetectionAnalysisResult"
+  },
+  "botExecuteRecordReference" : "CBERR745065"
+}

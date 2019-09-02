@@ -1,0 +1,13 @@
+{
+  "executeRecordReference" : "ERR747593",
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisPeriod" : "channelActivityAnalysisPeriod",
+    "channelType" : "channelType",
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult",
+    "channelActivityAnalysisType" : "channelActivityAnalysisType"
+  },
+  "executeResponseRecord" : {},
+  "channelActivityAnalysisExecuteActionTaskRecord" : {},
+  "channelActivityAnalysisExecuteActionTaskReference" : "CAAEATR776786"
+}

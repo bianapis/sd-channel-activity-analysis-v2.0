@@ -1,0 +1,30 @@
+{
+  "merchantFraudRetrieveActionResponse" : "merchantFraudRetrieveActionResponse",
+  "merchantFraudInstanceRecord" : {
+    "channelActivityMerchantFraudAnalysisResult" : "channelActivityMerchantFraudAnalysisResult",
+    "channelActivityMerchantFraudAnalysisAlgorithmSpecification" : "channelActivityMerchantFraudAnalysisAlgorithmSpecification",
+    "channelActivityMerchantFraudAnalysisReference" : "750612"
+  },
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisPeriod" : "channelActivityAnalysisPeriod",
+    "channelType" : "channelType",
+    "channelActivityHistoryReport" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult",
+    "channelActivityAnalysisType" : "channelActivityAnalysisType"
+  },
+  "merchantFraudRetrieveActionTaskReference" : "MFRATR715600",
+  "merchantFraudRetrieveActionTaskRecord" : {},
+  "merchantFraudInstanceReport" : {
+    "merchantFraudInstanceReportParameters" : "merchantFraudInstanceReportParameters",
+    "merchantFraudInstanceReportType" : "merchantFraudInstanceReportType",
+    "merchantFraudInstanceReportRecord" : {},
+    "merchantFraudInstanceReport" : {}
+  },
+  "merchantFraudInstanceAnalysis" : {
+    "merchantFraudInstanceAnalysisRecord" : {},
+    "merchantFraudInstanceAnalysisParameters" : "merchantFraudInstanceAnalysisParameters",
+    "merchantFraudInstanceAnalysisReport" : {},
+    "merchantFraudInstanceAnalysisReportType" : "merchantFraudInstanceAnalysisReportType"
+  }
+}

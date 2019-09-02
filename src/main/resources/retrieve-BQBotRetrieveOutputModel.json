@@ -1,0 +1,30 @@
+{
+  "botInstanceAnalysis" : {
+    "botInstanceAnalysisReportType" : "botInstanceAnalysisReportType",
+    "botInstanceAnalysisReport" : {},
+    "botInstanceAnalysisParameters" : "botInstanceAnalysisParameters",
+    "botInstanceAnalysisRecord" : {}
+  },
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisPeriod" : "channelActivityAnalysisPeriod",
+    "channelType" : "channelType",
+    "channelActivityHistoryReport" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult",
+    "channelActivityAnalysisType" : "channelActivityAnalysisType"
+  },
+  "botInstanceReport" : {
+    "botInstanceReport" : {},
+    "botInstanceReportParameters" : "botInstanceReportParameters",
+    "botInstanceReportType" : "botInstanceReportType",
+    "botInstanceReportRecord" : {}
+  },
+  "botRetrieveActionTaskRecord" : {},
+  "botRetrieveActionTaskReference" : "CBRATR746196",
+  "bQBotInstanceRecordInstanceRecord" : {
+    "channelActivityBotDetectionAnalysisAlgorithmSpecification" : "channelActivityBotDetectionAnalysisAlgorithmSpecification",
+    "channelActivityBotDetectionAnalysisReference" : "778881",
+    "channelActivityBotDetectionAnalysisResult" : "channelActivityBotDetectionAnalysisResult"
+  },
+  "botRetrieveActionResponse" : "botRetrieveActionResponse"
+}

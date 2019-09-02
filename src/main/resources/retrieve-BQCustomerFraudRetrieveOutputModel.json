@@ -1,0 +1,30 @@
+{
+  "customerFraudRetrieveActionTaskReference" : "CFRATR734376",
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisPeriod" : "channelActivityAnalysisPeriod",
+    "channelType" : "channelType",
+    "channelActivityHistoryReport" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult",
+    "channelActivityAnalysisType" : "channelActivityAnalysisType"
+  },
+  "customerFraudInstanceReport" : {
+    "customerFraudInstanceReportParameters" : "customerFraudInstanceReportParameters",
+    "customerFraudInstanceReportRecord" : {},
+    "customerFraudInstanceReport" : {},
+    "customerFraudInstanceReportType" : "customerFraudInstanceReportType"
+  },
+  "customerFraudRetrieveActionTaskRecord" : {},
+  "customerFraudInstanceRecord" : {
+    "channelActivityCustomerFraudAnalysisAlgorithmSpecification" : "channelActivityCustomerFraudAnalysisAlgorithmSpecification",
+    "channelActivityCustomerFraudAnalysisResult" : "channelActivityCustomerFraudAnalysisResult",
+    "channelActivityCustomerFraudAnalysisReference" : "735607"
+  },
+  "customerFraudInstanceAnalysis" : {
+    "customerFraudInstanceAnalysisParameters" : "customerFraudInstanceAnalysisParameters",
+    "customerFraudInstanceAnalysisRecord" : {},
+    "customerFraudInstanceAnalysisReport" : {},
+    "customerFraudInstanceAnalysisReportType" : "customerFraudInstanceAnalysisReportType"
+  },
+  "customerFraudRetrieveActionResponse" : "customerFraudRetrieveActionResponse"
+}

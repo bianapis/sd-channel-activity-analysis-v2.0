@@ -1,0 +1,13 @@
+{
+  "channelActivityAnalysisRequestActionTaskReference" : "CAARATR703453",
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisPeriod" : "channelActivityAnalysisPeriod",
+    "channelType" : "channelType",
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult",
+    "channelActivityAnalysisType" : "channelActivityAnalysisType"
+  },
+  "requestRecordReference" : "RRR784235",
+  "channelActivityAnalysisRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

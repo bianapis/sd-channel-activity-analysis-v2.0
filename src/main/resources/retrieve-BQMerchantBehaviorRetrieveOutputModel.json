@@ -1,0 +1,30 @@
+{
+  "merchantBehaviorInstanceAnalysis" : {
+    "merchantBehaviorInstanceAnalysisReportType" : "merchantBehaviorInstanceAnalysisReportType",
+    "merchantBehaviorInstanceAnalysisReport" : {},
+    "merchantBehaviorInstanceAnalysisParameters" : "merchantBehaviorInstanceAnalysisParameters",
+    "merchantBehaviorInstanceAnalysisRecord" : {}
+  },
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisPeriod" : "channelActivityAnalysisPeriod",
+    "channelType" : "channelType",
+    "channelActivityHistoryReport" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult",
+    "channelActivityAnalysisType" : "channelActivityAnalysisType"
+  },
+  "merchantBehaviorRetrieveActionTaskRecord" : {},
+  "merchantBehaviorInstanceReport" : {
+    "merchantBehaviorInstanceReportType" : "merchantBehaviorInstanceReportType",
+    "merchantBehaviorInstanceReport" : {},
+    "merchantBehaviorInstanceReportParameters" : "merchantBehaviorInstanceReportParameters",
+    "merchantBehaviorInstanceReportRecord" : {}
+  },
+  "merchantBehaviorRetrieveActionResponse" : "merchantBehaviorRetrieveActionResponse",
+  "merchantBehaviorRetrieveActionTaskReference" : "MBRATR729843",
+  "merchantBehaviorInstanceRecord" : {
+    "channelActivityMerchantBehaviorAnalysisReference" : "743363",
+    "channelActivityMerchantBehaviorAnalysisAlgorithmSpecification" : "channelActivityMerchantBehaviorAnalysisAlgorithmSpecification",
+    "channelActivityMerchantBehaviorAnalysisResult" : "channelActivityMerchantBehaviorAnalysisResult"
+  }
+}

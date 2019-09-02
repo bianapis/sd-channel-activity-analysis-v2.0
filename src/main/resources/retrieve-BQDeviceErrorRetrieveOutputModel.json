@@ -1,0 +1,30 @@
+{
+  "deviceErrorInstanceRecord" : {
+    "channelActivityDeviceErrorDetectionAnalysisReference" : "776245",
+    "channelActivityDeviceErrorDetectionAnalysisResult" : "channelActivityDeviceErrorDetectionAnalysisResult",
+    "channelActivityDeviceErrorDetectionAnalysisAlgorithmSpecification" : "channelActivityDeviceErrorDetectionAnalysisAlgorithmSpecification"
+  },
+  "deviceErrorRetrieveActionTaskRecord" : {},
+  "deviceErrorRetrieveActionResponse" : "deviceErrorRetrieveActionResponse",
+  "channelActivityAnalysisInstanceRecord" : {
+    "channelActivityAnalysisRecord" : {},
+    "channelActivityAnalysisPeriod" : "channelActivityAnalysisPeriod",
+    "channelType" : "channelType",
+    "channelActivityHistoryReport" : {},
+    "channelActivityAnalysisResult" : "channelActivityAnalysisResult",
+    "channelActivityAnalysisType" : "channelActivityAnalysisType"
+  },
+  "deviceErrorRetrieveActionTaskReference" : "DERATR771360",
+  "deviceErrorInstanceAnalysis" : {
+    "deviceErrorInstanceAnalysisReport" : {},
+    "deviceErrorInstanceAnalysisRecord" : {},
+    "deviceErrorInstanceAnalysisReportType" : "deviceErrorInstanceAnalysisReportType",
+    "deviceErrorInstanceAnalysisParameters" : "deviceErrorInstanceAnalysisParameters"
+  },
+  "deviceErrorInstanceReport" : {
+    "deviceErrorInstanceReportRecord" : {},
+    "deviceErrorInstanceReport" : {},
+    "deviceErrorInstanceReportType" : "deviceErrorInstanceReportType",
+    "deviceErrorInstanceReportParameters" : "deviceErrorInstanceReportParameters"
+  }
+}
