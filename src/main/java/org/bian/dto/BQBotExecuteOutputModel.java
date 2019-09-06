@@ -48,7 +48,8 @@ public class BQBotExecuteOutputModel   {
   public BQBotExecuteOutputModelBQBotInstanceRecordInstanceRecord getBQBotInstanceRecordInstanceRecord() {
     return bQBotInstanceRecordInstanceRecord;
   }
-
+  
+  @JsonProperty("bQBotInstanceRecordInstanceRecord")
   public void setBQBotInstanceRecordInstanceRecord(BQBotExecuteOutputModelBQBotInstanceRecordInstanceRecord bQBotInstanceRecordInstanceRecord) {
     this.bQBotInstanceRecordInstanceRecord = bQBotInstanceRecordInstanceRecord;
   }
